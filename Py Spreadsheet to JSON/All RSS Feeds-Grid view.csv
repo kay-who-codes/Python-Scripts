@@ -1,0 +1,24 @@
+﻿Name,RSS URL,Genre
+Less Wrong,https://www.lesswrong.com/feed.xml?view=curated-rss,Philosophy
+Fed -  Finance and Economics Discussion Series,https://www.federalreserve.gov/feeds/feds.xml,Economics
+Fed -  International Finance Discussion Papers,https://www.federalreserve.gov/feeds/ifdp.xml,Economics
+Fed - All Press Releases,https://www.federalreserve.gov/feeds/press_all.xml,Economics
+BIS - USA Research Papers,https://www.bis.org/dcms/api/reshub_list/papers_list.rss?page=&paging_length=10&sort_list=publication_date&direct_links=false&fromDate=&tillDate=&subfilter_selection=countries&countries=231,Economics
+ECB - European Central Bank,http://www.ecb.int/rss/pub.html,Economics
+IMF - All Publications,https://www.imf.org/en/Publications/RSS?language=eng,Economics
+BoE - Publications,https://www.bankofengland.co.uk/rss/publications,Economics
+10K - MTCH,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000891103&type=10-K%25&dateb=&owner=include&start=0&count=40&output=atom,SEC Filings
+10K - DNA,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001830214&type=10-K%25&dateb=&owner=include&start=0&count=40&output=atom,SEC Filings
+10K - AXON,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001069183&type=10-K%25&dateb=&owner=include&start=0&count=2&output=atom,SEC Filings
+10-K - BRK-B,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067983&type=10-K%25&dateb=&owner=exclude&start=0&count=2&output=atom,SEC Filings
+10-K - AMZN,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=10-K%25&dateb=&owner=include&start=0&count=5&output=atom,SEC Filings
+10-K - MTCH,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000891103&type=10-K%25&dateb=&owner=include&start=0&count=5&output=atom,SEC Filings
+10-K - PEP,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000077476&type=10-K%25&dateb=&owner=include&start=0&count=5&output=atom,SEC Filings
+Test,https://www.alphavantage.co/query?function=RSI&symbol=IBM&interval=weekly&time_period=10&series_type=open&apikey=SULVQT06J3O7UUGJ,SEC Filings
+10-K - WMT,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000104169&type=10-K%25&dateb=&owner=include&start=0&count=40&output=atom,SEC Filings
+10-K - COIN,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788&type=10-K%25&dateb=&owner=include&start=0&count=40&output=atom,SEC Filings
+10-K - GOOG,https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=10-K%25&dateb=&owner=include&start=0&count=40&output=atom,SEC Filings
+Rimworld Blog,https://ludeon.com/blog/feed/,Gaming
+EDM Prod,http://edmprod.com/feed/,Music Production
+Soundcloud - Kay Releases,https://feeds.soundcloud.com/users/soundcloud:users:6925014/sounds.rss,Music
+Infographics - Information is Beautiful,http://feeds.feedburner.com/InformationIsBeautiful,🎲 Mixed

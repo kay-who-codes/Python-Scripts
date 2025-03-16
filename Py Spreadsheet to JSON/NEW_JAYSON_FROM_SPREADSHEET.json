@@ -1,0 +1,117 @@
+[
+    {
+        "Name":"Less Wrong",
+        "RSS URL":"https://www.lesswrong.com/feed.xml?view=curated-rss",
+        "Genre":"Philosophy"
+    },
+    {
+        "Name":"Fed -  Finance and Economics Discussion Series",
+        "RSS URL":"https://www.federalreserve.gov/feeds/feds.xml",
+        "Genre":"Economics"
+    },
+    {
+        "Name":"Fed -  International Finance Discussion Papers",
+        "RSS URL":"https://www.federalreserve.gov/feeds/ifdp.xml",
+        "Genre":"Economics"
+    },
+    {
+        "Name":"Fed - All Press Releases",
+        "RSS URL":"https://www.federalreserve.gov/feeds/press_all.xml",
+        "Genre":"Economics"
+    },
+    {
+        "Name":"BIS - USA Research Papers",
+        "RSS URL":"https://www.bis.org/dcms/api/reshub_list/papers_list.rss?page=&paging_length=10&sort_list=publication_date&direct_links=false&fromDate=&tillDate=&subfilter_selection=countries&countries=231",
+        "Genre":"Economics"
+    },
+    {
+        "Name":"ECB - European Central Bank",
+        "RSS URL":"http://www.ecb.int/rss/pub.html",
+        "Genre":"Economics"
+    },
+    {
+        "Name":"IMF - All Publications",
+        "RSS URL":"https://www.imf.org/en/Publications/RSS?language=eng",
+        "Genre":"Economics"
+    },
+    {
+        "Name":"BoE - Publications",
+        "RSS URL":"https://www.bankofengland.co.uk/rss/publications",
+        "Genre":"Economics"
+    },
+    {
+        "Name":"10K - MTCH",
+        "RSS URL":"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000891103&type=10-K%25&dateb=&owner=include&start=0&count=40&output=atom",
+        "Genre":"SEC Filings"
+    },
+    {
+        "Name":"10K - DNA",
+        "RSS URL":"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001830214&type=10-K%25&dateb=&owner=include&start=0&count=40&output=atom",
+        "Genre":"SEC Filings"
+    },
+    {
+        "Name":"10K - AXON",
+        "RSS URL":"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001069183&type=10-K%25&dateb=&owner=include&start=0&count=2&output=atom",
+        "Genre":"SEC Filings"
+    },
+    {
+        "Name":"10-K - BRK-B",
+        "RSS URL":"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067983&type=10-K%25&dateb=&owner=exclude&start=0&count=2&output=atom",
+        "Genre":"SEC Filings"
+    },
+    {
+        "Name":"10-K - AMZN",
+        "RSS URL":"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=10-K%25&dateb=&owner=include&start=0&count=5&output=atom",
+        "Genre":"SEC Filings"
+    },
+    {
+        "Name":"10-K - MTCH",
+        "RSS URL":"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000891103&type=10-K%25&dateb=&owner=include&start=0&count=5&output=atom",
+        "Genre":"SEC Filings"
+    },
+    {
+        "Name":"10-K - PEP",
+        "RSS URL":"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000077476&type=10-K%25&dateb=&owner=include&start=0&count=5&output=atom",
+        "Genre":"SEC Filings"
+    },
+    {
+        "Name":"Test",
+        "RSS URL":"https://www.alphavantage.co/query?function=RSI&symbol=IBM&interval=weekly&time_period=10&series_type=open&apikey=SULVQT06J3O7UUGJ",
+        "Genre":"SEC Filings"
+    },
+    {
+        "Name":"10-K - WMT",
+        "RSS URL":"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000104169&type=10-K%25&dateb=&owner=include&start=0&count=40&output=atom",
+        "Genre":"SEC Filings"
+    },
+    {
+        "Name":"10-K - COIN",
+        "RSS URL":"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788&type=10-K%25&dateb=&owner=include&start=0&count=40&output=atom",
+        "Genre":"SEC Filings"
+    },
+    {
+        "Name":"10-K - GOOG",
+        "RSS URL":"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=10-K%25&dateb=&owner=include&start=0&count=40&output=atom",
+        "Genre":"SEC Filings"
+    },
+    {
+        "Name":"Rimworld Blog",
+        "RSS URL":"https://ludeon.com/blog/feed/",
+        "Genre":"Gaming"
+    },
+    {
+        "Name":"EDM Prod",
+        "RSS URL":"http://edmprod.com/feed/",
+        "Genre":"Music Production"
+    },
+    {
+        "Name":"Soundcloud - Kay Releases",
+        "RSS URL":"https://feeds.soundcloud.com/users/soundcloud:users:6925014/sounds.rss",
+        "Genre":"Music"
+    },
+    {
+        "Name":"Infographics - Information is Beautiful",
+        "RSS URL":"http://feeds.feedburner.com/InformationIsBeautiful",
+        "Genre":"\ud83c\udfb2 Mixed"
+    }
+]
