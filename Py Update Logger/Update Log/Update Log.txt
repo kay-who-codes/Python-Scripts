@@ -1,0 +1,8 @@
+App Update: 1
+Date of Update: 11 Dec 2024 @ 16:08
+Details: Created app
+
+App Update: 2
+Date of Update: 13 Dec 2024 @ 12:56
+Details: Improved dialog box
+
